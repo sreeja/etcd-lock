@@ -18,7 +18,7 @@ package utils
 
 import (
 	"flag"
-	"github.com/coreos/go-etcd/etcd"
+	"github.com/etcd-io/etcd"
 )
 
 const (
