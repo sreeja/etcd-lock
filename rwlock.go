@@ -49,7 +49,7 @@ import (
 	"flag"
 	"path"
 
-	"github.com/coreos/go-etcd/etcd"
+	"github.com/etcd-io/etcd"
 	"github.com/golang/glog"
 	"github.com/satori/go.uuid"
 )
